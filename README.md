@@ -2,7 +2,7 @@
 Test Backend, Express, NodeJS, Mongodb
 
 
-##### List of user routes:
+##### List of Product routes:
 
 | Route | HTTP | Description |
 |:-----:|:----:|:-----------:|
