@@ -11,3 +11,10 @@ Test Backend, Express, NodeJS, Mongodb
 | `/api/product/getSingleProduct/:nama` | GET | Get Single Product based on Name |
 | `/api/product/addProduct` | POST | Add Product {name: name, price: price} |
 
+## Usage
+
+```
+npm install / yarn install
+npm start / yarn start
+```
+
