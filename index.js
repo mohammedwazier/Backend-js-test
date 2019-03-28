@@ -6,6 +6,7 @@ const app = express();
 
 const product = require('./services/product');
 
+app.use(express.static('public'))
 app.use('/', router.get('', (req,res) => {
 	res.send('Hello, this is from server');
 }));
